@@ -1,0 +1,6 @@
+{
+  "name": "Zenith Dashboard",
+  "description": "A dark-themed personal dashboard to manage studies, plan workouts, track daily nutrition, organize tasks, and set alarms with progress graphs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
